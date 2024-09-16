@@ -1,0 +1,14 @@
+.navbar-custom {
+    background-color: black;
+}
+
+.custom-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.navbar-logo {
+    height: 50px;
+    width: auto;
+}
