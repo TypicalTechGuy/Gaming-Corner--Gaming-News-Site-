@@ -216,6 +216,19 @@ header p {
     transform: scale(1.03);
   }
   
+  /* Pagination */
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .pagination button {
+    padding: 10px 20px;
+    margin: 5px;
+  }
+
   /* Footer */
   .footer {
     background-color: #333;

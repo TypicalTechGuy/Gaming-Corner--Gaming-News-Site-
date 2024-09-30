@@ -49,22 +49,18 @@
   }
   
   .signin-btn {
-    background-color: #2DA0F2;
+    padding: 10px 20px;
+    background-color: #00adef;
     color: white;
-    padding: 0.75rem;
     border: none;
     border-radius: 4px;
     width: 100%;
-    font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
   
   .signin-btn:hover {
-    background:none;
-    color: #2DA0F2;
-    outline: #2DA0F2 solid 1px;
-    outline-offset: -1px;
+    background-color: #007bbf;
   }
   
   .signup-text {
